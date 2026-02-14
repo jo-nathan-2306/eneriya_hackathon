@@ -2,7 +2,7 @@
 
 # medemi
 
-offline, privacy-first medical triage system that uses natural language processing and rule-based clinical logic to analyze user-reported symptoms, determine urgency levels, and recommend and book the appropriate doctor
+offline medical triage system that uses natural language processing and rule-based clinical logic to analyze user-reported symptoms, determine urgency levels, and recommend and book the appropriate doctor
 
 ## features
 
