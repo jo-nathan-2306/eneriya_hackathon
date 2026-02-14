@@ -1,0 +1,136 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background: #000;
+  color: #fff;
+  overflow-x: hidden;
+}
+
+/* Glow */
+.glow {
+  position: absolute;
+  top: -260px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 1400px;
+  opacity: 0.6;
+  z-index: 0;
+}
+
+.navbar {
+  position: relative;
+  padding: 40px 80px;
+  z-index: 5;
+}
+
+/* Logo stays left */
+.logo img {
+  width: 240px;
+}
+
+/* TRUE CENTER NAV */
+.nav-center {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 56px;
+}
+
+.nav-center a {
+  text-decoration: none;
+  color: #aaa;
+  font-weight: 500;
+  font-size: 17px;
+}
+
+.nav-center a:hover {
+  color: #fff;
+}
+
+/* Hero */
+.hero {
+  min-height: calc(100vh - 140px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+/* Stethoscope wrapper */
+.stetho-wrap {
+  position: relative;
+  z-index: 1;
+}
+
+/* Stethoscope */
+.stetho {
+  width: 580px;
+  position: relative;
+  z-index: 2;
+  display: block;
+}
+
+/* Shadow image BELOW */
+.shadow {
+  top: 90%;     /* closer to stethoscope */
+  width: 850px;
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 900px;   /* tweak if needed */
+  opacity: 0.85;
+  z-index: 0;
+  pointer-events: none;
+}
+
+
+
+/* Hero overlay content */
+.hero-content {
+  position: absolute;
+  z-index: 3;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* BIG BOLD TEXT */
+.hero-content h1 {
+  font-size: 68px;
+  font-weight: 800;
+  line-height: 1.12;
+  letter-spacing: -0.035em;
+  margin-bottom: 46px;
+}
+
+.hero-content h1 span {
+  font-weight: 600;
+}
+
+/* CTA */
+.cta {
+  padding: 26px 72px;
+  font-weight: 600;
+  font-size: 19px;
+  letter-spacing: 0.05em;
+  background: rgba(255, 255, 255, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  border-radius: 999px;
+  color: #fff;
+  cursor: pointer;
+  backdrop-filter: blur(16px);
+  transition: all 0.3s ease;
+}
+
+.cta:hover {
+  background: rgba(255, 255, 255, 0.22);
+  transform: translateY(-3px);
+}
