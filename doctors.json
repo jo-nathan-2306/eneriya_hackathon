@@ -2,16 +2,17 @@
   "doctors": [
     {
       "id": 1,
-      "name": "Dr. Aman Iyer",
-      "qualification": "MBBS, DM (Neurology)",
-      "specialization": "Neurology",
+      "name": "Dr. Ritu Verma",
+      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
+      "specialization": "Gynecology",
       "time_slots": [
-        "17:00-19:00"
+        "10:00-12:00",
+        "18:00-20:00"
       ]
     },
     {
       "id": 2,
-      "name": "Dr. Sneha Bansal",
+      "name": "Dr. Meera Kulkarni",
       "qualification": "MBBS, DM (Neurology)",
       "specialization": "Neurology",
       "time_slots": [
@@ -20,144 +21,71 @@
     },
     {
       "id": 3,
-      "name": "Dr. Sneha Nair",
-      "qualification": "MBBS, MS (ENT)",
-      "specialization": "ENT",
+      "name": "Dr. Nikhil Menon",
+      "qualification": "MBBS, DM (Endocrinology)",
+      "specialization": "Endocrinology",
+      "time_slots": [
+        "14:00-17:00"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Dr. Shweta Kapoor",
+      "qualification": "MBBS, DM (Gastroenterology)",
+      "specialization": "Gastroenterology",
       "time_slots": [
         "10:00-12:00",
         "18:00-20:00"
       ]
     },
     {
-      "id": 4,
-      "name": "Dr. Shweta Das",
-      "qualification": "MBBS, MD (Pediatrics)",
-      "specialization": "Pediatrics",
-      "time_slots": [
-        "09:00-11:00"
-      ]
-    },
-    {
       "id": 5,
-      "name": "Dr. Nikhil Nair",
-      "qualification": "MBBS, MD (Psychiatry)",
-      "specialization": "Psychiatry",
+      "name": "Dr. Arjun Sharma",
+      "qualification": "MBBS, DM (Hepatology)",
+      "specialization": "Hepatology",
       "time_slots": [
-        "09:00-11:00"
+        "14:00-17:00"
       ]
     },
     {
       "id": 6,
-      "name": "Dr. Rajesh Gupta",
-      "qualification": "MBBS, DM (Cardiology)",
-      "specialization": "Cardiology",
+      "name": "Dr. Ritu Joshi",
+      "qualification": "MBBS, DM (Nephrology)",
+      "specialization": "Nephrology",
       "time_slots": [
-        "10:00-13:00"
+        "14:00-17:00"
       ]
     },
     {
       "id": 7,
-      "name": "Dr. Ananya Chatterjee",
-      "qualification": "MBBS, MS (ENT)",
-      "specialization": "ENT",
+      "name": "Dr. Priya Nair",
+      "qualification": "MBBS, MD (Pulmonology)",
+      "specialization": "Pulmonology",
       "time_slots": [
-        "11:00-14:00"
+        "14:00-17:00"
       ]
     },
     {
       "id": 8,
-      "name": "Dr. Arjun Iyer",
-      "qualification": "MBBS, DM (Cardiology)",
-      "specialization": "Cardiology",
+      "name": "Dr. Rajesh Joshi",
+      "qualification": "MBBS, DM (Rheumatology)",
+      "specialization": "Rheumatology",
       "time_slots": [
-        "16:00-18:00"
+        "17:00-19:00"
       ]
     },
     {
       "id": 9,
-      "name": "Dr. Priya Chatterjee",
-      "qualification": "MBBS, MS (Ophthalmology)",
-      "specialization": "Ophthalmology",
+      "name": "Dr. Neha Bansal",
+      "qualification": "MBBS, DM (Hematology)",
+      "specialization": "Hematology",
       "time_slots": [
         "10:00-13:00"
       ]
     },
     {
       "id": 10,
-      "name": "Dr. Pooja Bansal",
-      "qualification": "MBBS, MS (ENT)",
-      "specialization": "ENT",
-      "time_slots": [
-        "09:00-11:00"
-      ]
-    },
-    {
-      "id": 11,
-      "name": "Dr. Ananya Khanna",
-      "qualification": "MBBS, DM (Cardiology)",
-      "specialization": "Cardiology",
-      "time_slots": [
-        "09:00-11:00"
-      ]
-    },
-    {
-      "id": 12,
-      "name": "Dr. Aman Singh",
-      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
-      "specialization": "Gynecology",
-      "time_slots": [
-        "10:00-12:00",
-        "18:00-20:00"
-      ]
-    },
-    {
-      "id": 13,
-      "name": "Dr. Deepa Agarwal",
-      "qualification": "MBBS, MD (Psychiatry)",
-      "specialization": "Psychiatry",
-      "time_slots": [
-        "16:00-18:00"
-      ]
-    },
-    {
-      "id": 14,
-      "name": "Dr. Pooja Agarwal",
-      "qualification": "MBBS, MD (Pediatrics)",
-      "specialization": "Pediatrics",
-      "time_slots": [
-        "10:00-13:00"
-      ]
-    },
-    {
-      "id": 15,
-      "name": "Dr. Varun Chatterjee",
-      "qualification": "MBBS, MS (Orthopedics)",
-      "specialization": "Orthopedics",
-      "time_slots": [
-        "11:00-14:00"
-      ]
-    },
-    {
-      "id": 16,
-      "name": "Dr. Kunal Menon",
-      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
-      "specialization": "Gynecology",
-      "time_slots": [
-        "16:00-18:00"
-      ]
-    },
-    {
-      "id": 17,
-      "name": "Dr. Vikram Iyer",
-      "qualification": "MBBS, MS (Ophthalmology)",
-      "specialization": "Ophthalmology",
-      "time_slots": [
-        "09:00-11:00"
-      ]
-    },
-    {
-      "id": 18,
-      "name": "Dr. Meera Mehta",
+      "name": "Dr. Arjun Chatterjee",
       "qualification": "MBBS, MD (Psychiatry)",
       "specialization": "Psychiatry",
       "time_slots": [
@@ -165,8 +93,72 @@
       ]
     },
     {
-      "id": 19,
-      "name": "Dr. Rahul Chatterjee",
+      "id": 11,
+      "name": "Dr. Meera Chatterjee",
+      "qualification": "MBBS, MD (Addiction Medicine)",
+      "specialization": "Addiction Medicine",
+      "time_slots": [
+        "10:00-13:00"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Dr. Shweta Bansal",
+      "qualification": "MBBS, MD (Radiology)",
+      "specialization": "Radiology",
+      "time_slots": [
+        "14:00-17:00"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Dr. Neha Kapoor",
+      "qualification": "MBBS, MD (Pathology)",
+      "specialization": "Pathology",
+      "time_slots": [
+        "10:00-13:00"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Dr. Deepa Mehta",
+      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
+      "specialization": "Gynecology",
+      "time_slots": [
+        "10:00-13:00"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Dr. Shweta Patel",
+      "qualification": "MBBS, MS (Ophthalmology)",
+      "specialization": "Ophthalmology",
+      "time_slots": [
+        "14:00-17:00"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Dr. Ritu Joshi",
+      "qualification": "MBBS, MS (ENT)",
+      "specialization": "ENT",
+      "time_slots": [
+        "10:00-12:00",
+        "18:00-20:00"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Dr. Deepa Chatterjee",
+      "qualification": "MBBS, DM (Neurology)",
+      "specialization": "Neurology",
+      "time_slots": [
+        "16:00-18:00"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Dr. Sneha Rao",
       "qualification": "MBBS, MS (Obstetrics & Gynecology)",
       "specialization": "Gynecology",
       "time_slots": [
@@ -174,19 +166,29 @@
       ]
     },
     {
-      "id": 20,
-      "name": "Dr. Meera Agarwal",
-      "qualification": "MBBS, MD (Dermatology)",
-      "specialization": "Dermatology",
+      "id": 19,
+      "name": "Dr. Pooja Mehta",
+      "qualification": "MBBS, MS (ENT)",
+      "specialization": "ENT",
       "time_slots": [
-        "10:00-13:00"
+        "17:00-19:00"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Dr. Priya Nair",
+      "qualification": "MBBS, MD (Psychiatry)",
+      "specialization": "Psychiatry",
+      "time_slots": [
+        "10:00-12:00",
+        "18:00-20:00"
       ]
     },
     {
       "id": 21,
-      "name": "Dr. Rajesh Nair",
-      "qualification": "MBBS, MD (Pediatrics)",
-      "specialization": "Pediatrics",
+      "name": "Dr. Rajesh Kapoor",
+      "qualification": "MBBS, DM (Nephrology)",
+      "specialization": "Nephrology",
       "time_slots": [
         "10:00-12:00",
         "18:00-20:00"
@@ -194,46 +196,45 @@
     },
     {
       "id": 22,
-      "name": "Dr. Aman Sharma",
-      "qualification": "MBBS, MS (Ophthalmology)",
-      "specialization": "Ophthalmology",
+      "name": "Dr. Rahul Malhotra",
+      "qualification": "MBBS, MD (Psychiatry)",
+      "specialization": "Psychiatry",
       "time_slots": [
-        "16:00-18:00"
+        "11:00-14:00"
       ]
     },
     {
       "id": 23,
-      "name": "Dr. Rahul Kulkarni",
-      "qualification": "MBBS, DM (Cardiology)",
-      "specialization": "Cardiology",
+      "name": "Dr. Neha Kulkarni",
+      "qualification": "MBBS, DM (Hepatology)",
+      "specialization": "Hepatology",
       "time_slots": [
-        "10:00-12:00",
-        "18:00-20:00"
+        "10:00-13:00"
       ]
     },
     {
       "id": 24,
-      "name": "Dr. Meera Chatterjee",
-      "qualification": "MBBS, DM (Neurology)",
-      "specialization": "Neurology",
+      "name": "Dr. Aman Khanna",
+      "qualification": "MBBS, DM (Cardiology)",
+      "specialization": "Cardiology",
       "time_slots": [
         "11:00-14:00"
       ]
     },
     {
       "id": 25,
-      "name": "Dr. Sneha Mishra",
-      "qualification": "MBBS, MD (Dermatology)",
-      "specialization": "Dermatology",
+      "name": "Dr. Varun Sharma",
+      "qualification": "MBBS, MD (Radiology)",
+      "specialization": "Radiology",
       "time_slots": [
-        "16:00-18:00"
+        "10:00-13:00"
       ]
     },
     {
       "id": 26,
-      "name": "Dr. Rahul Kulkarni",
-      "qualification": "MBBS, MS (ENT)",
-      "specialization": "ENT",
+      "name": "Dr. Kavita Das",
+      "qualification": "MBBS, DM (Gastroenterology)",
+      "specialization": "Gastroenterology",
       "time_slots": [
         "10:00-12:00",
         "18:00-20:00"
@@ -241,281 +242,7 @@
     },
     {
       "id": 27,
-      "name": "Dr. Deepa Menon",
-      "qualification": "MBBS, MD (Pediatrics)",
-      "specialization": "Pediatrics",
-      "time_slots": [
-        "14:00-17:00"
-      ]
-    },
-    {
-      "id": 28,
-      "name": "Dr. Vikram Kapoor",
-      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
-      "specialization": "Gynecology",
-      "time_slots": [
-        "14:00-17:00"
-      ]
-    },
-    {
-      "id": 29,
-      "name": "Dr. Kunal Iyer",
-      "qualification": "MBBS, MS (ENT)",
-      "specialization": "ENT",
-      "time_slots": [
-        "10:00-13:00"
-      ]
-    },
-    {
-      "id": 30,
-      "name": "Dr. Rajesh Nair",
-      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
-      "specialization": "Gynecology",
-      "time_slots": [
-        "09:00-11:00"
-      ]
-    },
-    {
-      "id": 31,
-      "name": "Dr. Kunal Khanna",
-      "qualification": "MBBS, MD (Psychiatry)",
-      "specialization": "Psychiatry",
-      "time_slots": [
-        "10:00-12:00",
-        "18:00-20:00"
-      ]
-    },
-    {
-      "id": 32,
-      "name": "Dr. Suresh Nair",
-      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
-      "specialization": "Gynecology",
-      "time_slots": [
-        "14:00-17:00"
-      ]
-    },
-    {
-      "id": 33,
-      "name": "Dr. Pooja Patel",
-      "qualification": "MBBS, MD (Dermatology)",
-      "specialization": "Dermatology",
-      "time_slots": [
-        "10:00-13:00"
-      ]
-    },
-    {
-      "id": 34,
-      "name": "Dr. Rajesh Agarwal",
-      "qualification": "MBBS, DM (Neurology)",
-      "specialization": "Neurology",
-      "time_slots": [
-        "11:00-14:00"
-      ]
-    },
-    {
-      "id": 35,
-      "name": "Dr. Kunal Iyer",
-      "qualification": "MBBS, MD (Psychiatry)",
-      "specialization": "Psychiatry",
-      "time_slots": [
-        "14:00-17:00"
-      ]
-    },
-    {
-      "id": 36,
-      "name": "Dr. Rajesh Rao",
-      "qualification": "MBBS, MD (General Medicine)",
-      "specialization": "General Medicine",
-      "time_slots": [
-        "17:00-19:00"
-      ]
-    },
-    {
-      "id": 37,
-      "name": "Dr. Suresh Malhotra",
-      "qualification": "MBBS, DM (Cardiology)",
-      "specialization": "Cardiology",
-      "time_slots": [
-        "09:00-11:00"
-      ]
-    },
-    {
-      "id": 38,
-      "name": "Dr. Kavita Kulkarni",
-      "qualification": "MBBS, MD (Pediatrics)",
-      "specialization": "Pediatrics",
-      "time_slots": [
-        "09:00-11:00"
-      ]
-    },
-    {
-      "id": 39,
-      "name": "Dr. Vikram Das",
-      "qualification": "MBBS, MD (Pediatrics)",
-      "specialization": "Pediatrics",
-      "time_slots": [
-        "10:00-13:00"
-      ]
-    },
-    {
-      "id": 40,
-      "name": "Dr. Ananya Sharma",
-      "qualification": "MBBS, MD (General Medicine)",
-      "specialization": "General Medicine",
-      "time_slots": [
-        "10:00-12:00",
-        "18:00-20:00"
-      ]
-    },
-    {
-      "id": 41,
-      "name": "Dr. Aman Mehta",
-      "qualification": "MBBS, MD (Psychiatry)",
-      "specialization": "Psychiatry",
-      "time_slots": [
-        "17:00-19:00"
-      ]
-    },
-    {
-      "id": 42,
-      "name": "Dr. Neha Nair",
-      "qualification": "MBBS, DM (Neurology)",
-      "specialization": "Neurology",
-      "time_slots": [
-        "10:00-12:00",
-        "18:00-20:00"
-      ]
-    },
-    {
-      "id": 43,
-      "name": "Dr. Neha Menon",
-      "qualification": "MBBS, DM (Neurology)",
-      "specialization": "Neurology",
-      "time_slots": [
-        "16:00-18:00"
-      ]
-    },
-    {
-      "id": 44,
-      "name": "Dr. Priya Rao",
-      "qualification": "MBBS, DM (Neurology)",
-      "specialization": "Neurology",
-      "time_slots": [
-        "11:00-14:00"
-      ]
-    },
-    {
-      "id": 45,
-      "name": "Dr. Arjun Nair",
-      "qualification": "MBBS, MD (Pediatrics)",
-      "specialization": "Pediatrics",
-      "time_slots": [
-        "16:00-18:00"
-      ]
-    },
-    {
-      "id": 46,
-      "name": "Dr. Varun Nair",
-      "qualification": "MBBS, MS (Orthopedics)",
-      "specialization": "Orthopedics",
-      "time_slots": [
-        "10:00-13:00"
-      ]
-    },
-    {
-      "id": 47,
-      "name": "Dr. Pooja Malhotra",
-      "qualification": "MBBS, DM (Neurology)",
-      "specialization": "Neurology",
-      "time_slots": [
-        "16:00-18:00"
-      ]
-    },
-    {
-      "id": 48,
-      "name": "Dr. Varun Gupta",
-      "qualification": "MBBS, MD (Pediatrics)",
-      "specialization": "Pediatrics",
-      "time_slots": [
-        "16:00-18:00"
-      ]
-    },
-    {
-      "id": 49,
-      "name": "Dr. Nikhil Mishra",
-      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
-      "specialization": "Gynecology",
-      "time_slots": [
-        "14:00-17:00"
-      ]
-    },
-    {
-      "id": 50,
-      "name": "Dr. Neha Chatterjee",
-      "qualification": "MBBS, MD (Pediatrics)",
-      "specialization": "Pediatrics",
-      "time_slots": [
-        "16:00-18:00"
-      ]
-    },
-    {
-      "id": 51,
-      "name": "Dr. Ananya Agarwal",
-      "qualification": "MBBS, MD (Dermatology)",
-      "specialization": "Dermatology",
-      "time_slots": [
-        "10:00-13:00"
-      ]
-    },
-    {
-      "id": 52,
-      "name": "Dr. Suresh Menon",
-      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
-      "specialization": "Gynecology",
-      "time_slots": [
-        "17:00-19:00"
-      ]
-    },
-    {
-      "id": 53,
-      "name": "Dr. Rajesh Kulkarni",
-      "qualification": "MBBS, MS (Orthopedics)",
-      "specialization": "Orthopedics",
-      "time_slots": [
-        "16:00-18:00"
-      ]
-    },
-    {
-      "id": 54,
-      "name": "Dr. Priya Mishra",
-      "qualification": "MBBS, MD (Dermatology)",
-      "specialization": "Dermatology",
-      "time_slots": [
-        "16:00-18:00"
-      ]
-    },
-    {
-      "id": 55,
-      "name": "Dr. Priya Khanna",
-      "qualification": "MBBS, MD (Psychiatry)",
-      "specialization": "Psychiatry",
-      "time_slots": [
-        "09:00-11:00"
-      ]
-    },
-    {
-      "id": 56,
-      "name": "Dr. Shweta Sharma",
-      "qualification": "MBBS, MS (ENT)",
-      "specialization": "ENT",
-      "time_slots": [
-        "10:00-12:00",
-        "18:00-20:00"
-      ]
-    },
-    {
-      "id": 57,
-      "name": "Dr. Neha Verma",
+      "name": "Dr. Pooja Sharma",
       "qualification": "MBBS, MS (Ophthalmology)",
       "specialization": "Ophthalmology",
       "time_slots": [
@@ -523,10 +250,282 @@
       ]
     },
     {
-      "id": 58,
-      "name": "Dr. Neha Das",
+      "id": 28,
+      "name": "Dr. Vikram Malhotra",
+      "qualification": "MBBS, DM (Neurology)",
+      "specialization": "Neurology",
+      "time_slots": [
+        "10:00-12:00",
+        "18:00-20:00"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Dr. Rajesh Iyer",
+      "qualification": "MBBS, MS (ENT)",
+      "specialization": "ENT",
+      "time_slots": [
+        "17:00-19:00"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Dr. Meera Kapoor",
+      "qualification": "MBBS, MD (Dermatology)",
+      "specialization": "Dermatology",
+      "time_slots": [
+        "16:00-18:00"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Dr. Ashok Kulkarni",
+      "qualification": "MBBS, MD (Pulmonology)",
+      "specialization": "Pulmonology",
+      "time_slots": [
+        "14:00-17:00"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Dr. Meera Chatterjee",
+      "qualification": "MBBS, DM (Cardiology)",
+      "specialization": "Cardiology",
+      "time_slots": [
+        "16:00-18:00"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Dr. Neha Agarwal",
+      "qualification": "MBBS, DM (Hematology)",
+      "specialization": "Hematology",
+      "time_slots": [
+        "14:00-17:00"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Dr. Kavita Joshi",
+      "qualification": "MBBS, MD (Addiction Medicine)",
+      "specialization": "Addiction Medicine",
+      "time_slots": [
+        "16:00-18:00"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Dr. Rajesh Khanna",
+      "qualification": "MBBS, MD (Pulmonology)",
+      "specialization": "Pulmonology",
+      "time_slots": [
+        "17:00-19:00"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Dr. Ananya Bansal",
+      "qualification": "MBBS, DM (Endocrinology)",
+      "specialization": "Endocrinology",
+      "time_slots": [
+        "14:00-17:00"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Dr. Deepa Malhotra",
+      "qualification": "MBBS, MD (Pulmonology)",
+      "specialization": "Pulmonology",
+      "time_slots": [
+        "09:00-11:00"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Dr. Rahul Iyer",
+      "qualification": "MBBS, MD (Dermatology)",
+      "specialization": "Dermatology",
+      "time_slots": [
+        "16:00-18:00"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Dr. Suresh Rao",
       "qualification": "MBBS, MS (Obstetrics & Gynecology)",
       "specialization": "Gynecology",
+      "time_slots": [
+        "10:00-12:00",
+        "18:00-20:00"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Dr. Nikhil Gupta",
+      "qualification": "MBBS, MD (Addiction Medicine)",
+      "specialization": "Addiction Medicine",
+      "time_slots": [
+        "10:00-13:00"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Dr. Vikram Singh",
+      "qualification": "MBBS, DM (Hematology)",
+      "specialization": "Hematology",
+      "time_slots": [
+        "11:00-14:00"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Dr. Deepa Agarwal",
+      "qualification": "MBBS, MD (Psychiatry)",
+      "specialization": "Psychiatry",
+      "time_slots": [
+        "14:00-17:00"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Dr. Shweta Kapoor",
+      "qualification": "MBBS, DM (Nephrology)",
+      "specialization": "Nephrology",
+      "time_slots": [
+        "16:00-18:00"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Dr. Nikhil Rao",
+      "qualification": "MBBS, MS (ENT)",
+      "specialization": "ENT",
+      "time_slots": [
+        "09:00-11:00"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Dr. Pooja Das",
+      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
+      "specialization": "Gynecology",
+      "time_slots": [
+        "10:00-13:00"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Dr. Nikhil Mehta",
+      "qualification": "MBBS, DM (Hematology)",
+      "specialization": "Hematology",
+      "time_slots": [
+        "11:00-14:00"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Dr. Nikhil Joshi",
+      "qualification": "MBBS, DM (Gastroenterology)",
+      "specialization": "Gastroenterology",
+      "time_slots": [
+        "09:00-11:00"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Dr. Shweta Singh",
+      "qualification": "MBBS, DM (Nephrology)",
+      "specialization": "Nephrology",
+      "time_slots": [
+        "14:00-17:00"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Dr. Aman Sharma",
+      "qualification": "MBBS, MD (Radiology)",
+      "specialization": "Radiology",
+      "time_slots": [
+        "11:00-14:00"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Dr. Ritu Verma",
+      "qualification": "MBBS, DM (Cardiology)",
+      "specialization": "Cardiology",
+      "time_slots": [
+        "17:00-19:00"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Dr. Kavita Mehta",
+      "qualification": "MBBS, DM (Hepatology)",
+      "specialization": "Hepatology",
+      "time_slots": [
+        "14:00-17:00"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Dr. Nikhil Nair",
+      "qualification": "MBBS, DM (Nephrology)",
+      "specialization": "Nephrology",
+      "time_slots": [
+        "09:00-11:00"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Dr. Neha Khanna",
+      "qualification": "MBBS, DM (Gastroenterology)",
+      "specialization": "Gastroenterology",
+      "time_slots": [
+        "17:00-19:00"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Dr. Priya Joshi",
+      "qualification": "MBBS, DM (Nephrology)",
+      "specialization": "Nephrology",
+      "time_slots": [
+        "14:00-17:00"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Dr. Sneha Patel",
+      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
+      "specialization": "Gynecology",
+      "time_slots": [
+        "14:00-17:00"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Dr. Ashok Iyer",
+      "qualification": "MBBS, DM (Hematology)",
+      "specialization": "Hematology",
+      "time_slots": [
+        "09:00-11:00"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Dr. Kunal Das",
+      "qualification": "MBBS, MS (Ophthalmology)",
+      "specialization": "Ophthalmology",
+      "time_slots": [
+        "11:00-14:00"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Dr. Kunal Mishra",
+      "qualification": "MBBS, DM (Neurology)",
+      "specialization": "Neurology",
       "time_slots": [
         "10:00-12:00",
         "18:00-20:00"
@@ -534,1294 +533,382 @@
     },
     {
       "id": 59,
-      "name": "Dr. Ananya Kulkarni",
-      "qualification": "MBBS, MS (ENT)",
-      "specialization": "ENT",
+      "name": "Dr. Nikhil Patel",
+      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
+      "specialization": "Gynecology",
       "time_slots": [
-        "16:00-18:00"
+        "09:00-11:00"
       ]
     },
     {
       "id": 60,
-      "name": "Dr. Neha Malhotra",
-      "qualification": "MBBS, DM (Cardiology)",
-      "specialization": "Cardiology",
-      "time_slots": [
-        "10:00-13:00"
-      ]
-    },
-    {
-      "id": 61,
-      "name": "Dr. Rajesh Das",
-      "qualification": "MBBS, MD (Dermatology)",
-      "specialization": "Dermatology",
+      "name": "Dr. Priya Menon",
+      "qualification": "MBBS, MS (ENT)",
+      "specialization": "ENT",
       "time_slots": [
         "10:00-12:00",
         "18:00-20:00"
       ]
     },
     {
+      "id": 61,
+      "name": "Dr. Rahul Kulkarni",
+      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
+      "specialization": "Gynecology",
+      "time_slots": [
+        "16:00-18:00"
+      ]
+    },
+    {
       "id": 62,
-      "name": "Dr. Varun Singh",
-      "qualification": "MBBS, MD (Psychiatry)",
-      "specialization": "Psychiatry",
+      "name": "Dr. Vikram Iyer",
+      "qualification": "MBBS, MD (Dermatology)",
+      "specialization": "Dermatology",
       "time_slots": [
         "17:00-19:00"
       ]
     },
     {
       "id": 63,
-      "name": "Dr. Sneha Khanna",
+      "name": "Dr. Rahul Menon",
       "qualification": "MBBS, MD (Psychiatry)",
       "specialization": "Psychiatry",
       "time_slots": [
-        "17:00-19:00"
+        "11:00-14:00"
       ]
     },
     {
       "id": 64,
-      "name": "Dr. Meera Mishra",
-      "qualification": "MBBS, MS (Ophthalmology)",
-      "specialization": "Ophthalmology",
+      "name": "Dr. Deepa Chatterjee",
+      "qualification": "MBBS, DM (Rheumatology)",
+      "specialization": "Rheumatology",
       "time_slots": [
-        "10:00-12:00",
-        "18:00-20:00"
+        "09:00-11:00"
       ]
     },
     {
       "id": 65,
-      "name": "Dr. Priya Nair",
-      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
-      "specialization": "Gynecology",
+      "name": "Dr. Nikhil Khanna",
+      "qualification": "MBBS, DM (Gastroenterology)",
+      "specialization": "Gastroenterology",
       "time_slots": [
-        "14:00-17:00"
+        "16:00-18:00"
       ]
     },
     {
       "id": 66,
-      "name": "Dr. Arjun Mishra",
-      "qualification": "MBBS, MD (General Medicine)",
-      "specialization": "General Medicine",
+      "name": "Dr. Rahul Mehta",
+      "qualification": "MBBS, DM (Cardiology)",
+      "specialization": "Cardiology",
       "time_slots": [
-        "14:00-17:00"
+        "11:00-14:00"
       ]
     },
     {
       "id": 67,
-      "name": "Dr. Kavita Verma",
-      "qualification": "MBBS, MD (Pediatrics)",
-      "specialization": "Pediatrics",
+      "name": "Dr. Kunal Patel",
+      "qualification": "MBBS, DM (Rheumatology)",
+      "specialization": "Rheumatology",
       "time_slots": [
         "11:00-14:00"
       ]
     },
     {
       "id": 68,
-      "name": "Dr. Arjun Verma",
-      "qualification": "MBBS, MD (Psychiatry)",
-      "specialization": "Psychiatry",
+      "name": "Dr. Kunal Rao",
+      "qualification": "MBBS, DM (Gastroenterology)",
+      "specialization": "Gastroenterology",
       "time_slots": [
-        "10:00-13:00"
+        "09:00-11:00"
       ]
     },
     {
       "id": 69,
-      "name": "Dr. Priya Iyer",
-      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
-      "specialization": "Gynecology",
+      "name": "Dr. Varun Das",
+      "qualification": "MBBS, DM (Hematology)",
+      "specialization": "Hematology",
       "time_slots": [
         "17:00-19:00"
       ]
     },
     {
       "id": 70,
-      "name": "Dr. Pooja Chatterjee",
-      "qualification": "MBBS, MS (Ophthalmology)",
-      "specialization": "Ophthalmology",
+      "name": "Dr. Shweta Iyer",
+      "qualification": "MBBS, MD (Addiction Medicine)",
+      "specialization": "Addiction Medicine",
       "time_slots": [
-        "14:00-17:00"
+        "11:00-14:00"
       ]
     },
     {
       "id": 71,
-      "name": "Dr. Vikram Gupta",
-      "qualification": "MBBS, MD (Psychiatry)",
-      "specialization": "Psychiatry",
-      "time_slots": [
-        "14:00-17:00"
-      ]
-    },
-    {
-      "id": 72,
-      "name": "Dr. Deepa Nair",
-      "qualification": "MBBS, MS (Orthopedics)",
-      "specialization": "Orthopedics",
-      "time_slots": [
-        "16:00-18:00"
-      ]
-    },
-    {
-      "id": 73,
-      "name": "Dr. Ritu Mehta",
-      "qualification": "MBBS, MS (Orthopedics)",
-      "specialization": "Orthopedics",
-      "time_slots": [
-        "16:00-18:00"
-      ]
-    },
-    {
-      "id": 74,
-      "name": "Dr. Kunal Joshi",
-      "qualification": "MBBS, MD (Psychiatry)",
-      "specialization": "Psychiatry",
+      "name": "Dr. Kunal Kapoor",
+      "qualification": "MBBS, DM (Rheumatology)",
+      "specialization": "Rheumatology",
       "time_slots": [
         "10:00-12:00",
         "18:00-20:00"
       ]
     },
     {
-      "id": 75,
-      "name": "Dr. Deepa Sharma",
-      "qualification": "MBBS, MS (Orthopedics)",
-      "specialization": "Orthopedics",
-      "time_slots": [
-        "09:00-11:00"
-      ]
-    },
-    {
-      "id": 76,
-      "name": "Dr. Arjun Patel",
-      "qualification": "MBBS, MS (Orthopedics)",
-      "specialization": "Orthopedics",
-      "time_slots": [
-        "10:00-13:00"
-      ]
-    },
-    {
-      "id": 77,
-      "name": "Dr. Rahul Kapoor",
-      "qualification": "MBBS, DM (Cardiology)",
-      "specialization": "Cardiology",
+      "id": 72,
+      "name": "Dr. Sneha Joshi",
+      "qualification": "MBBS, MD (Psychiatry)",
+      "specialization": "Psychiatry",
       "time_slots": [
         "17:00-19:00"
       ]
     },
     {
-      "id": 78,
-      "name": "Dr. Vikram Bansal",
+      "id": 73,
+      "name": "Dr. Ritu Sharma",
       "qualification": "MBBS, MS (ENT)",
       "specialization": "ENT",
       "time_slots": [
-        "16:00-18:00"
+        "10:00-13:00"
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Dr. Pooja Mehta",
+      "qualification": "MBBS, MD (Psychiatry)",
+      "specialization": "Psychiatry",
+      "time_slots": [
+        "14:00-17:00"
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Dr. Ananya Rao",
+      "qualification": "MBBS, MD (Pulmonology)",
+      "specialization": "Pulmonology",
+      "time_slots": [
+        "11:00-14:00"
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Dr. Varun Chatterjee",
+      "qualification": "MBBS, DM (Nephrology)",
+      "specialization": "Nephrology",
+      "time_slots": [
+        "11:00-14:00"
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Dr. Rajesh Patel",
+      "qualification": "MBBS, DM (Gastroenterology)",
+      "specialization": "Gastroenterology",
+      "time_slots": [
+        "09:00-11:00"
+      ]
+    },
+    {
+      "id": 78,
+      "name": "Dr. Ritu Menon",
+      "qualification": "MBBS, DM (Nephrology)",
+      "specialization": "Nephrology",
+      "time_slots": [
+        "10:00-12:00",
+        "18:00-20:00"
       ]
     },
     {
       "id": 79,
-      "name": "Dr. Priya Iyer",
-      "qualification": "MBBS, MS (Ophthalmology)",
-      "specialization": "Ophthalmology",
+      "name": "Dr. Ashok Sharma",
+      "qualification": "MBBS, DM (Endocrinology)",
+      "specialization": "Endocrinology",
       "time_slots": [
-        "16:00-18:00"
+        "11:00-14:00"
       ]
     },
     {
       "id": 80,
-      "name": "Dr. Deepa Joshi",
-      "qualification": "MBBS, MS (Ophthalmology)",
-      "specialization": "Ophthalmology",
+      "name": "Dr. Kunal Malhotra",
+      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
+      "specialization": "Gynecology",
       "time_slots": [
         "09:00-11:00"
       ]
     },
     {
       "id": 81,
-      "name": "Dr. Rahul Sharma",
-      "qualification": "MBBS, MS (Orthopedics)",
-      "specialization": "Orthopedics",
+      "name": "Dr. Deepa Mishra",
+      "qualification": "MBBS, DM (Cardiology)",
+      "specialization": "Cardiology",
       "time_slots": [
-        "17:00-19:00"
+        "09:00-11:00"
       ]
     },
     {
       "id": 82,
-      "name": "Dr. Vikram Joshi",
-      "qualification": "MBBS, DM (Cardiology)",
-      "specialization": "Cardiology",
-      "time_slots": [
-        "17:00-19:00"
-      ]
-    },
-    {
-      "id": 83,
-      "name": "Dr. Kavita Mehta",
-      "qualification": "MBBS, MD (General Medicine)",
-      "specialization": "General Medicine",
-      "time_slots": [
-        "09:00-11:00"
-      ]
-    },
-    {
-      "id": 84,
-      "name": "Dr. Pooja Menon",
-      "qualification": "MBBS, DM (Cardiology)",
-      "specialization": "Cardiology",
-      "time_slots": [
-        "09:00-11:00"
-      ]
-    },
-    {
-      "id": 85,
-      "name": "Dr. Kunal Nair",
+      "name": "Dr. Ashok Nair",
       "qualification": "MBBS, MS (ENT)",
       "specialization": "ENT",
-      "time_slots": [
-        "17:00-19:00"
-      ]
-    },
-    {
-      "id": 86,
-      "name": "Dr. Deepa Iyer",
-      "qualification": "MBBS, MD (Pediatrics)",
-      "specialization": "Pediatrics",
-      "time_slots": [
-        "17:00-19:00"
-      ]
-    },
-    {
-      "id": 87,
-      "name": "Dr. Rahul Iyer",
-      "qualification": "MBBS, DM (Cardiology)",
-      "specialization": "Cardiology",
       "time_slots": [
         "11:00-14:00"
       ]
     },
     {
-      "id": 88,
-      "name": "Dr. Meera Nair",
-      "qualification": "MBBS, MS (ENT)",
-      "specialization": "ENT",
+      "id": 83,
+      "name": "Dr. Nikhil Singh",
+      "qualification": "MBBS, MD (Dermatology)",
+      "specialization": "Dermatology",
+      "time_slots": [
+        "14:00-17:00"
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Dr. Pooja Chatterjee",
+      "qualification": "MBBS, DM (Hepatology)",
+      "specialization": "Hepatology",
+      "time_slots": [
+        "11:00-14:00"
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Dr. Neha Nair",
+      "qualification": "MBBS, MD (Dermatology)",
+      "specialization": "Dermatology",
+      "time_slots": [
+        "11:00-14:00"
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Dr. Shweta Bansal",
+      "qualification": "MBBS, DM (Rheumatology)",
+      "specialization": "Rheumatology",
+      "time_slots": [
+        "16:00-18:00"
+      ]
+    },
+    {
+      "id": 87,
+      "name": "Dr. Nikhil Mishra",
+      "qualification": "MBBS, MD (Pathology)",
+      "specialization": "Pathology",
       "time_slots": [
         "17:00-19:00"
       ]
     },
     {
-      "id": 89,
-      "name": "Dr. Rahul Nair",
-      "qualification": "MBBS, MD (Psychiatry)",
-      "specialization": "Psychiatry",
+      "id": 88,
+      "name": "Dr. Sneha Singh",
+      "qualification": "MBBS, MD (Pulmonology)",
+      "specialization": "Pulmonology",
       "time_slots": [
-        "10:00-13:00"
+        "09:00-11:00"
+      ]
+    },
+    {
+      "id": 89,
+      "name": "Dr. Shweta Mehta",
+      "qualification": "MBBS, MS (Ophthalmology)",
+      "specialization": "Ophthalmology",
+      "time_slots": [
+        "09:00-11:00"
       ]
     },
     {
       "id": 90,
-      "name": "Dr. Vikram Joshi",
-      "qualification": "MBBS, MD (General Medicine)",
-      "specialization": "General Medicine",
+      "name": "Dr. Neha Rao",
+      "qualification": "MBBS, MD (Addiction Medicine)",
+      "specialization": "Addiction Medicine",
       "time_slots": [
         "17:00-19:00"
       ]
     },
     {
       "id": 91,
-      "name": "Dr. Rajesh Patel",
-      "qualification": "MBBS, MD (Dermatology)",
-      "specialization": "Dermatology",
+      "name": "Dr. Rajesh Kulkarni",
+      "qualification": "MBBS, DM (Rheumatology)",
+      "specialization": "Rheumatology",
       "time_slots": [
-        "14:00-17:00"
+        "16:00-18:00"
       ]
     },
     {
       "id": 92,
-      "name": "Dr. Neha Mehta",
-      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
-      "specialization": "Gynecology",
+      "name": "Dr. Kunal Agarwal",
+      "qualification": "MBBS, DM (Cardiology)",
+      "specialization": "Cardiology",
       "time_slots": [
-        "16:00-18:00"
+        "10:00-13:00"
       ]
     },
     {
       "id": 93,
-      "name": "Dr. Suresh Kapoor",
-      "qualification": "MBBS, DM (Cardiology)",
-      "specialization": "Cardiology",
+      "name": "Dr. Kavita Das",
+      "qualification": "MBBS, MS (ENT)",
+      "specialization": "ENT",
       "time_slots": [
-        "17:00-19:00"
+        "10:00-13:00"
       ]
     },
     {
       "id": 94,
-      "name": "Dr. Shweta Malhotra",
-      "qualification": "MBBS, MD (General Medicine)",
-      "specialization": "General Medicine",
+      "name": "Dr. Vikram Gupta",
+      "qualification": "MBBS, DM (Nephrology)",
+      "specialization": "Nephrology",
       "time_slots": [
-        "10:00-13:00"
+        "09:00-11:00"
       ]
     },
     {
       "id": 95,
-      "name": "Dr. Rahul Menon",
-      "qualification": "MBBS, MD (Pediatrics)",
-      "specialization": "Pediatrics",
+      "name": "Dr. Rahul Chatterjee",
+      "qualification": "MBBS, MS (Ophthalmology)",
+      "specialization": "Ophthalmology",
       "time_slots": [
-        "14:00-17:00"
+        "10:00-12:00",
+        "18:00-20:00"
       ]
     },
     {
       "id": 96,
-      "name": "Dr. Vikram Verma",
-      "qualification": "MBBS, DM (Cardiology)",
-      "specialization": "Cardiology",
+      "name": "Dr. Ananya Agarwal",
+      "qualification": "MBBS, DM (Neurology)",
+      "specialization": "Neurology",
       "time_slots": [
-        "10:00-13:00"
+        "09:00-11:00"
       ]
     },
     {
       "id": 97,
-      "name": "Dr. Nikhil Mehta",
-      "qualification": "MBBS, MD (Pediatrics)",
-      "specialization": "Pediatrics",
+      "name": "Dr. Kavita Menon",
+      "qualification": "MBBS, MD (Pulmonology)",
+      "specialization": "Pulmonology",
       "time_slots": [
-        "09:00-11:00"
+        "17:00-19:00"
       ]
     },
     {
       "id": 98,
-      "name": "Dr. Kavita Iyer",
-      "qualification": "MBBS, MD (Pediatrics)",
-      "specialization": "Pediatrics",
+      "name": "Dr. Vikram Singh",
+      "qualification": "MBBS, DM (Cardiology)",
+      "specialization": "Cardiology",
       "time_slots": [
-        "10:00-12:00",
-        "18:00-20:00"
+        "11:00-14:00"
       ]
     },
     {
       "id": 99,
-      "name": "Dr. Meera Das",
-      "qualification": "MBBS, DM (Neurology)",
-      "specialization": "Neurology",
+      "name": "Dr. Ananya Nair",
+      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
+      "specialization": "Gynecology",
       "time_slots": [
-        "11:00-14:00"
+        "17:00-19:00"
       ]
     },
     {
       "id": 100,
-      "name": "Dr. Kavita Agarwal",
-      "qualification": "MBBS, MS (Ophthalmology)",
-      "specialization": "Ophthalmology",
-      "time_slots": [
-        "17:00-19:00"
-      ]
-    },
-    {
-      "id": 101,
-      "name": "Dr. Sneha Menon",
-      "qualification": "MBBS, DM (Neurology)",
-      "specialization": "Neurology",
-      "time_slots": [
-        "10:00-13:00"
-      ]
-    },
-    {
-      "id": 102,
-      "name": "Dr. Kunal Kapoor",
-      "qualification": "MBBS, MD (Pediatrics)",
-      "specialization": "Pediatrics",
-      "time_slots": [
-        "10:00-13:00"
-      ]
-    },
-    {
-      "id": 103,
-      "name": "Dr. Suresh Menon",
-      "qualification": "MBBS, MD (Psychiatry)",
-      "specialization": "Psychiatry",
-      "time_slots": [
-        "09:00-11:00"
-      ]
-    },
-    {
-      "id": 104,
-      "name": "Dr. Arjun Mehta",
-      "qualification": "MBBS, DM (Cardiology)",
-      "specialization": "Cardiology",
-      "time_slots": [
-        "10:00-13:00"
-      ]
-    },
-    {
-      "id": 105,
-      "name": "Dr. Vikram Iyer",
-      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
-      "specialization": "Gynecology",
-      "time_slots": [
-        "16:00-18:00"
-      ]
-    },
-    {
-      "id": 106,
-      "name": "Dr. Aman Sharma",
-      "qualification": "MBBS, MD (Pediatrics)",
-      "specialization": "Pediatrics",
-      "time_slots": [
-        "10:00-13:00"
-      ]
-    },
-    {
-      "id": 107,
-      "name": "Dr. Shweta Gupta",
-      "qualification": "MBBS, MS (ENT)",
-      "specialization": "ENT",
-      "time_slots": [
-        "10:00-13:00"
-      ]
-    },
-    {
-      "id": 108,
-      "name": "Dr. Arjun Kapoor",
-      "qualification": "MBBS, MD (Psychiatry)",
-      "specialization": "Psychiatry",
-      "time_slots": [
-        "09:00-11:00"
-      ]
-    },
-    {
-      "id": 109,
-      "name": "Dr. Aman Verma",
-      "qualification": "MBBS, MS (Ophthalmology)",
-      "specialization": "Ophthalmology",
-      "time_slots": [
-        "17:00-19:00"
-      ]
-    },
-    {
-      "id": 110,
-      "name": "Dr. Ritu Mehta",
-      "qualification": "MBBS, MD (Dermatology)",
-      "specialization": "Dermatology",
-      "time_slots": [
-        "09:00-11:00"
-      ]
-    },
-    {
-      "id": 111,
-      "name": "Dr. Deepa Nair",
-      "qualification": "MBBS, MS (Ophthalmology)",
-      "specialization": "Ophthalmology",
-      "time_slots": [
-        "17:00-19:00"
-      ]
-    },
-    {
-      "id": 112,
-      "name": "Dr. Kunal Kapoor",
-      "qualification": "MBBS, MD (General Medicine)",
-      "specialization": "General Medicine",
-      "time_slots": [
-        "09:00-11:00"
-      ]
-    },
-    {
-      "id": 113,
-      "name": "Dr. Sneha Nair",
-      "qualification": "MBBS, MD (Dermatology)",
-      "specialization": "Dermatology",
-      "time_slots": [
-        "17:00-19:00"
-      ]
-    },
-    {
-      "id": 114,
-      "name": "Dr. Sneha Rao",
-      "qualification": "MBBS, DM (Neurology)",
-      "specialization": "Neurology",
-      "time_slots": [
-        "09:00-11:00"
-      ]
-    },
-    {
-      "id": 115,
-      "name": "Dr. Suresh Iyer",
-      "qualification": "MBBS, MD (Psychiatry)",
-      "specialization": "Psychiatry",
-      "time_slots": [
-        "09:00-11:00"
-      ]
-    },
-    {
-      "id": 116,
-      "name": "Dr. Varun Iyer",
-      "qualification": "MBBS, MS (ENT)",
-      "specialization": "ENT",
-      "time_slots": [
-        "10:00-13:00"
-      ]
-    },
-    {
-      "id": 117,
-      "name": "Dr. Kavita Patel",
-      "qualification": "MBBS, DM (Neurology)",
-      "specialization": "Neurology",
-      "time_slots": [
-        "10:00-12:00",
-        "18:00-20:00"
-      ]
-    },
-    {
-      "id": 118,
-      "name": "Dr. Sneha Sharma",
-      "qualification": "MBBS, MS (ENT)",
-      "specialization": "ENT",
-      "time_slots": [
-        "16:00-18:00"
-      ]
-    },
-    {
-      "id": 119,
-      "name": "Dr. Pooja Kulkarni",
-      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
-      "specialization": "Gynecology",
-      "time_slots": [
-        "16:00-18:00"
-      ]
-    },
-    {
-      "id": 120,
-      "name": "Dr. Deepa Sharma",
-      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
-      "specialization": "Gynecology",
-      "time_slots": [
-        "14:00-17:00"
-      ]
-    },
-    {
-      "id": 121,
-      "name": "Dr. Arjun Malhotra",
-      "qualification": "MBBS, MD (Pediatrics)",
-      "specialization": "Pediatrics",
-      "time_slots": [
-        "09:00-11:00"
-      ]
-    },
-    {
-      "id": 122,
-      "name": "Dr. Vikram Patel",
-      "qualification": "MBBS, MD (Psychiatry)",
-      "specialization": "Psychiatry",
-      "time_slots": [
-        "16:00-18:00"
-      ]
-    },
-    {
-      "id": 123,
-      "name": "Dr. Meera Malhotra",
-      "qualification": "MBBS, MS (ENT)",
-      "specialization": "ENT",
-      "time_slots": [
-        "11:00-14:00"
-      ]
-    },
-    {
-      "id": 124,
-      "name": "Dr. Priya Kulkarni",
-      "qualification": "MBBS, MD (Psychiatry)",
-      "specialization": "Psychiatry",
-      "time_slots": [
-        "10:00-12:00",
-        "18:00-20:00"
-      ]
-    },
-    {
-      "id": 125,
-      "name": "Dr. Deepa Singh",
-      "qualification": "MBBS, MD (Psychiatry)",
-      "specialization": "Psychiatry",
-      "time_slots": [
-        "14:00-17:00"
-      ]
-    },
-    {
-      "id": 126,
-      "name": "Dr. Suresh Rao",
-      "qualification": "MBBS, MD (General Medicine)",
-      "specialization": "General Medicine",
-      "time_slots": [
-        "14:00-17:00"
-      ]
-    },
-    {
-      "id": 127,
-      "name": "Dr. Suresh Gupta",
-      "qualification": "MBBS, MD (General Medicine)",
-      "specialization": "General Medicine",
-      "time_slots": [
-        "16:00-18:00"
-      ]
-    },
-    {
-      "id": 128,
-      "name": "Dr. Vikram Gupta",
-      "qualification": "MBBS, MS (ENT)",
-      "specialization": "ENT",
-      "time_slots": [
-        "11:00-14:00"
-      ]
-    },
-    {
-      "id": 129,
-      "name": "Dr. Sneha Khanna",
-      "qualification": "MBBS, DM (Neurology)",
-      "specialization": "Neurology",
-      "time_slots": [
-        "11:00-14:00"
-      ]
-    },
-    {
-      "id": 130,
-      "name": "Dr. Neha Das",
-      "qualification": "MBBS, DM (Cardiology)",
-      "specialization": "Cardiology",
-      "time_slots": [
-        "09:00-11:00"
-      ]
-    },
-    {
-      "id": 131,
-      "name": "Dr. Aman Iyer",
-      "qualification": "MBBS, MD (Pediatrics)",
-      "specialization": "Pediatrics",
-      "time_slots": [
-        "17:00-19:00"
-      ]
-    },
-    {
-      "id": 132,
-      "name": "Dr. Arjun Khanna",
-      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
-      "specialization": "Gynecology",
-      "time_slots": [
-        "16:00-18:00"
-      ]
-    },
-    {
-      "id": 133,
-      "name": "Dr. Sneha Khanna",
-      "qualification": "MBBS, DM (Neurology)",
-      "specialization": "Neurology",
-      "time_slots": [
-        "11:00-14:00"
-      ]
-    },
-    {
-      "id": 134,
-      "name": "Dr. Kavita Singh",
-      "qualification": "MBBS, MD (Pediatrics)",
-      "specialization": "Pediatrics",
-      "time_slots": [
-        "10:00-13:00"
-      ]
-    },
-    {
-      "id": 135,
-      "name": "Dr. Suresh Mishra",
-      "qualification": "MBBS, MS (Ophthalmology)",
-      "specialization": "Ophthalmology",
-      "time_slots": [
-        "10:00-12:00",
-        "18:00-20:00"
-      ]
-    },
-    {
-      "id": 136,
-      "name": "Dr. Priya Verma",
-      "qualification": "MBBS, MS (ENT)",
-      "specialization": "ENT",
-      "time_slots": [
-        "10:00-12:00",
-        "18:00-20:00"
-      ]
-    },
-    {
-      "id": 137,
-      "name": "Dr. Rahul Mehta",
-      "qualification": "MBBS, DM (Neurology)",
-      "specialization": "Neurology",
-      "time_slots": [
-        "14:00-17:00"
-      ]
-    },
-    {
-      "id": 138,
-      "name": "Dr. Kavita Joshi",
-      "qualification": "MBBS, DM (Neurology)",
-      "specialization": "Neurology",
-      "time_slots": [
-        "14:00-17:00"
-      ]
-    },
-    {
-      "id": 139,
-      "name": "Dr. Meera Das",
-      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
-      "specialization": "Gynecology",
-      "time_slots": [
-        "17:00-19:00"
-      ]
-    },
-    {
-      "id": 140,
-      "name": "Dr. Kunal Verma",
-      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
-      "specialization": "Gynecology",
-      "time_slots": [
-        "09:00-11:00"
-      ]
-    },
-    {
-      "id": 141,
-      "name": "Dr. Shweta Kapoor",
-      "qualification": "MBBS, MS (ENT)",
-      "specialization": "ENT",
-      "time_slots": [
-        "14:00-17:00"
-      ]
-    },
-    {
-      "id": 142,
-      "name": "Dr. Kavita Singh",
-      "qualification": "MBBS, DM (Cardiology)",
-      "specialization": "Cardiology",
-      "time_slots": [
-        "16:00-18:00"
-      ]
-    },
-    {
-      "id": 143,
-      "name": "Dr. Varun Kulkarni",
-      "qualification": "MBBS, DM (Cardiology)",
-      "specialization": "Cardiology",
-      "time_slots": [
-        "14:00-17:00"
-      ]
-    },
-    {
-      "id": 144,
-      "name": "Dr. Sneha Chatterjee",
-      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
-      "specialization": "Gynecology",
-      "time_slots": [
-        "16:00-18:00"
-      ]
-    },
-    {
-      "id": 145,
-      "name": "Dr. Kunal Mehta",
-      "qualification": "MBBS, MS (ENT)",
-      "specialization": "ENT",
-      "time_slots": [
-        "09:00-11:00"
-      ]
-    },
-    {
-      "id": 146,
-      "name": "Dr. Pooja Kapoor",
-      "qualification": "MBBS, DM (Neurology)",
-      "specialization": "Neurology",
-      "time_slots": [
-        "14:00-17:00"
-      ]
-    },
-    {
-      "id": 147,
-      "name": "Dr. Nikhil Patel",
-      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
-      "specialization": "Gynecology",
-      "time_slots": [
-        "14:00-17:00"
-      ]
-    },
-    {
-      "id": 148,
-      "name": "Dr. Sneha Das",
-      "qualification": "MBBS, MD (Psychiatry)",
-      "specialization": "Psychiatry",
-      "time_slots": [
-        "09:00-11:00"
-      ]
-    },
-    {
-      "id": 149,
-      "name": "Dr. Ashok Khanna",
-      "qualification": "MBBS, MS (ENT)",
-      "specialization": "ENT",
-      "time_slots": [
-        "17:00-19:00"
-      ]
-    },
-    {
-      "id": 150,
-      "name": "Dr. Nikhil Menon",
-      "qualification": "MBBS, MD (Pediatrics)",
-      "specialization": "Pediatrics",
-      "time_slots": [
-        "10:00-12:00",
-        "18:00-20:00"
-      ]
-    },
-    {
-      "id": 151,
-      "name": "Dr. Arjun Verma",
-      "qualification": "MBBS, MS (Ophthalmology)",
-      "specialization": "Ophthalmology",
-      "time_slots": [
-        "10:00-12:00",
-        "18:00-20:00"
-      ]
-    },
-    {
-      "id": 152,
-      "name": "Dr. Sneha Sharma",
-      "qualification": "MBBS, DM (Neurology)",
-      "specialization": "Neurology",
-      "time_slots": [
-        "14:00-17:00"
-      ]
-    },
-    {
-      "id": 153,
-      "name": "Dr. Ananya Bansal",
-      "qualification": "MBBS, MD (General Medicine)",
-      "specialization": "General Medicine",
-      "time_slots": [
-        "17:00-19:00"
-      ]
-    },
-    {
-      "id": 154,
-      "name": "Dr. Deepa Mishra",
-      "qualification": "MBBS, DM (Cardiology)",
-      "specialization": "Cardiology",
-      "time_slots": [
-        "10:00-12:00",
-        "18:00-20:00"
-      ]
-    },
-    {
-      "id": 155,
-      "name": "Dr. Kavita Das",
-      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
-      "specialization": "Gynecology",
-      "time_slots": [
-        "11:00-14:00"
-      ]
-    },
-    {
-      "id": 156,
-      "name": "Dr. Vikram Rao",
-      "qualification": "MBBS, MS (ENT)",
-      "specialization": "ENT",
-      "time_slots": [
-        "11:00-14:00"
-      ]
-    },
-    {
-      "id": 157,
-      "name": "Dr. Kavita Verma",
-      "qualification": "MBBS, DM (Neurology)",
-      "specialization": "Neurology",
-      "time_slots": [
-        "10:00-13:00"
-      ]
-    },
-    {
-      "id": 158,
-      "name": "Dr. Shweta Chatterjee",
-      "qualification": "MBBS, MD (General Medicine)",
-      "specialization": "General Medicine",
-      "time_slots": [
-        "11:00-14:00"
-      ]
-    },
-    {
-      "id": 159,
-      "name": "Dr. Neha Verma",
-      "qualification": "MBBS, MS (Ophthalmology)",
-      "specialization": "Ophthalmology",
-      "time_slots": [
-        "10:00-13:00"
-      ]
-    },
-    {
-      "id": 160,
-      "name": "Dr. Rahul Malhotra",
-      "qualification": "MBBS, MD (Pediatrics)",
-      "specialization": "Pediatrics",
-      "time_slots": [
-        "17:00-19:00"
-      ]
-    },
-    {
-      "id": 161,
-      "name": "Dr. Ashok Rao",
-      "qualification": "MBBS, MS (ENT)",
-      "specialization": "ENT",
-      "time_slots": [
-        "11:00-14:00"
-      ]
-    },
-    {
-      "id": 162,
-      "name": "Dr. Rajesh Kulkarni",
-      "qualification": "MBBS, DM (Cardiology)",
-      "specialization": "Cardiology",
-      "time_slots": [
-        "16:00-18:00"
-      ]
-    },
-    {
-      "id": 163,
-      "name": "Dr. Arjun Singh",
-      "qualification": "MBBS, DM (Neurology)",
-      "specialization": "Neurology",
-      "time_slots": [
-        "16:00-18:00"
-      ]
-    },
-    {
-      "id": 164,
-      "name": "Dr. Rajesh Mehta",
-      "qualification": "MBBS, MD (Dermatology)",
-      "specialization": "Dermatology",
-      "time_slots": [
-        "16:00-18:00"
-      ]
-    },
-    {
-      "id": 165,
-      "name": "Dr. Arjun Agarwal",
-      "qualification": "MBBS, MS (Ophthalmology)",
-      "specialization": "Ophthalmology",
-      "time_slots": [
-        "14:00-17:00"
-      ]
-    },
-    {
-      "id": 166,
-      "name": "Dr. Vikram Mishra",
-      "qualification": "MBBS, MS (Orthopedics)",
-      "specialization": "Orthopedics",
-      "time_slots": [
-        "16:00-18:00"
-      ]
-    },
-    {
-      "id": 167,
-      "name": "Dr. Meera Agarwal",
-      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
-      "specialization": "Gynecology",
-      "time_slots": [
-        "10:00-13:00"
-      ]
-    },
-    {
-      "id": 168,
-      "name": "Dr. Shweta Agarwal",
-      "qualification": "MBBS, MD (General Medicine)",
-      "specialization": "General Medicine",
-      "time_slots": [
-        "14:00-17:00"
-      ]
-    },
-    {
-      "id": 169,
-      "name": "Dr. Ritu Bansal",
-      "qualification": "MBBS, DM (Cardiology)",
-      "specialization": "Cardiology",
-      "time_slots": [
-        "11:00-14:00"
-      ]
-    },
-    {
-      "id": 170,
-      "name": "Dr. Kavita Iyer",
-      "qualification": "MBBS, MD (Pediatrics)",
-      "specialization": "Pediatrics",
-      "time_slots": [
-        "10:00-12:00",
-        "18:00-20:00"
-      ]
-    },
-    {
-      "id": 171,
-      "name": "Dr. Deepa Verma",
-      "qualification": "MBBS, MD (Pediatrics)",
-      "specialization": "Pediatrics",
-      "time_slots": [
-        "16:00-18:00"
-      ]
-    },
-    {
-      "id": 172,
-      "name": "Dr. Rajesh Malhotra",
-      "qualification": "MBBS, DM (Neurology)",
-      "specialization": "Neurology",
-      "time_slots": [
-        "10:00-12:00",
-        "18:00-20:00"
-      ]
-    },
-    {
-      "id": 173,
-      "name": "Dr. Ritu Chatterjee",
-      "qualification": "MBBS, MD (Pediatrics)",
-      "specialization": "Pediatrics",
-      "time_slots": [
-        "16:00-18:00"
-      ]
-    },
-    {
-      "id": 174,
-      "name": "Dr. Neha Chatterjee",
-      "qualification": "MBBS, MS (Orthopedics)",
-      "specialization": "Orthopedics",
-      "time_slots": [
-        "10:00-13:00"
-      ]
-    },
-    {
-      "id": 175,
-      "name": "Dr. Nikhil Khanna",
-      "qualification": "MBBS, MD (General Medicine)",
-      "specialization": "General Medicine",
-      "time_slots": [
-        "10:00-13:00"
-      ]
-    },
-    {
-      "id": 176,
-      "name": "Dr. Ananya Iyer",
-      "qualification": "MBBS, MD (General Medicine)",
-      "specialization": "General Medicine",
-      "time_slots": [
-        "14:00-17:00"
-      ]
-    },
-    {
-      "id": 177,
-      "name": "Dr. Shweta Chatterjee",
-      "qualification": "MBBS, MS (Ophthalmology)",
-      "specialization": "Ophthalmology",
-      "time_slots": [
-        "09:00-11:00"
-      ]
-    },
-    {
-      "id": 178,
-      "name": "Dr. Deepa Nair",
-      "qualification": "MBBS, MD (General Medicine)",
-      "specialization": "General Medicine",
-      "time_slots": [
-        "10:00-13:00"
-      ]
-    },
-    {
-      "id": 179,
-      "name": "Dr. Priya Mehta",
-      "qualification": "MBBS, MS (ENT)",
-      "specialization": "ENT",
-      "time_slots": [
-        "17:00-19:00"
-      ]
-    },
-    {
-      "id": 180,
-      "name": "Dr. Ritu Gupta",
-      "qualification": "MBBS, MD (Pediatrics)",
-      "specialization": "Pediatrics",
-      "time_slots": [
-        "17:00-19:00"
-      ]
-    },
-    {
-      "id": 181,
-      "name": "Dr. Pooja Verma",
-      "qualification": "MBBS, MS (Orthopedics)",
-      "specialization": "Orthopedics",
-      "time_slots": [
-        "14:00-17:00"
-      ]
-    },
-    {
-      "id": 182,
-      "name": "Dr. Ashok Nair",
-      "qualification": "MBBS, DM (Neurology)",
-      "specialization": "Neurology",
-      "time_slots": [
-        "11:00-14:00"
-      ]
-    },
-    {
-      "id": 183,
-      "name": "Dr. Neha Sharma",
-      "qualification": "MBBS, MD (Pediatrics)",
-      "specialization": "Pediatrics",
-      "time_slots": [
-        "09:00-11:00"
-      ]
-    },
-    {
-      "id": 184,
-      "name": "Dr. Ritu Chatterjee",
-      "qualification": "MBBS, MS (Ophthalmology)",
-      "specialization": "Ophthalmology",
-      "time_slots": [
-        "10:00-13:00"
-      ]
-    },
-    {
-      "id": 185,
       "name": "Dr. Pooja Joshi",
-      "qualification": "MBBS, MD (Psychiatry)",
-      "specialization": "Psychiatry",
-      "time_slots": [
-        "10:00-12:00",
-        "18:00-20:00"
-      ]
-    },
-    {
-      "id": 186,
-      "name": "Dr. Kavita Gupta",
-      "qualification": "MBBS, MS (Orthopedics)",
-      "specialization": "Orthopedics",
-      "time_slots": [
-        "09:00-11:00"
-      ]
-    },
-    {
-      "id": 187,
-      "name": "Dr. Aman Agarwal",
-      "qualification": "MBBS, DM (Cardiology)",
-      "specialization": "Cardiology",
-      "time_slots": [
-        "14:00-17:00"
-      ]
-    },
-    {
-      "id": 188,
-      "name": "Dr. Ananya Malhotra",
-      "qualification": "MBBS, MS (Obstetrics & Gynecology)",
-      "specialization": "Gynecology",
-      "time_slots": [
-        "14:00-17:00"
-      ]
-    },
-    {
-      "id": 189,
-      "name": "Dr. Vikram Singh",
-      "qualification": "MBBS, MD (General Medicine)",
-      "specialization": "General Medicine",
-      "time_slots": [
-        "11:00-14:00"
-      ]
-    },
-    {
-      "id": 190,
-      "name": "Dr. Varun Bansal",
-      "qualification": "MBBS, MD (General Medicine)",
-      "specialization": "General Medicine",
-      "time_slots": [
-        "16:00-18:00"
-      ]
-    },
-    {
-      "id": 191,
-      "name": "Dr. Rahul Iyer",
-      "qualification": "MBBS, MS (Orthopedics)",
-      "specialization": "Orthopedics",
-      "time_slots": [
-        "10:00-13:00"
-      ]
-    },
-    {
-      "id": 192,
-      "name": "Dr. Ananya Patel",
-      "qualification": "MBBS, DM (Neurology)",
-      "specialization": "Neurology",
-      "time_slots": [
-        "11:00-14:00"
-      ]
-    },
-    {
-      "id": 193,
-      "name": "Dr. Varun Khanna",
-      "qualification": "MBBS, DM (Cardiology)",
-      "specialization": "Cardiology",
-      "time_slots": [
-        "09:00-11:00"
-      ]
-    },
-    {
-      "id": 194,
-      "name": "Dr. Rajesh Patel",
-      "qualification": "MBBS, MD (Dermatology)",
-      "specialization": "Dermatology",
-      "time_slots": [
-        "11:00-14:00"
-      ]
-    },
-    {
-      "id": 195,
-      "name": "Dr. Priya Patel",
-      "qualification": "MBBS, DM (Cardiology)",
-      "specialization": "Cardiology",
-      "time_slots": [
-        "10:00-12:00",
-        "18:00-20:00"
-      ]
-    },
-    {
-      "id": 196,
-      "name": "Dr. Meera Sharma",
-      "qualification": "MBBS, MS (ENT)",
-      "specialization": "ENT",
-      "time_slots": [
-        "10:00-12:00",
-        "18:00-20:00"
-      ]
-    },
-    {
-      "id": 197,
-      "name": "Dr. Aman Mishra",
-      "qualification": "MBBS, MD (Dermatology)",
-      "specialization": "Dermatology",
-      "time_slots": [
-        "10:00-13:00"
-      ]
-    },
-    {
-      "id": 198,
-      "name": "Dr. Ritu Rao",
-      "qualification": "MBBS, MD (General Medicine)",
-      "specialization": "General Medicine",
-      "time_slots": [
-        "14:00-17:00"
-      ]
-    },
-    {
-      "id": 199,
-      "name": "Dr. Ashok Singh",
-      "qualification": "MBBS, MD (General Medicine)",
-      "specialization": "General Medicine",
-      "time_slots": [
-        "16:00-18:00"
-      ]
-    },
-    {
-      "id": 200,
-      "name": "Dr. Ritu Khanna",
-      "qualification": "MBBS, MD (General Medicine)",
-      "specialization": "General Medicine",
+      "qualification": "MBBS, DM (Hepatology)",
+      "specialization": "Hepatology",
       "time_slots": [
         "10:00-12:00",
         "18:00-20:00"
